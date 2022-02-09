@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 /**
  * Урок 1. История возникновения языка Go. Особенности языка Go.
